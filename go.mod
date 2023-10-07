@@ -1,4 +1,4 @@
-module v5sdk_go
+module github.com/BigSaltFish1/okexv5sdk
 
 go 1.15
 
