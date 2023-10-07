@@ -3,11 +3,11 @@ package ws
 import (
 	"encoding/json"
 	"fmt"
+	. "github.com/BigSaltFish1/okexv5sdk/ws/wImpl"
 	"log"
 	"strings"
 	"testing"
 	"time"
-	. "v5sdk_go/ws/wImpl"
 )
 
 func prework() *WsClient {

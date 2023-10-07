@@ -2,10 +2,10 @@ package ws
 
 import (
 	"errors"
+	. "github.com/BigSaltFish1/okexv5sdk/ws/wImpl"
+	. "github.com/BigSaltFish1/okexv5sdk/ws/wInterface"
 	"log"
 	"runtime/debug"
-	. "v5sdk_go/ws/wImpl"
-	. "v5sdk_go/ws/wInterface"
 )
 
 // 判断返回结果成功失败
